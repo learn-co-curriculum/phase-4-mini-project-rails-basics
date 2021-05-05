@@ -1,5 +1,7 @@
 # Mini Project: Rails Basics
 
+🚧 Work In Progress 🚧
+
 ## Learning Goals
 
 - Create a new Rails API app from scratch
